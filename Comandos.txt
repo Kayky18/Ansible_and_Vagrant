@@ -1,0 +1,4 @@
+Configurando arquivo de inventario
+
+vi /etc/ansible/hosts
+
